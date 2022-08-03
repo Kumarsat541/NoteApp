@@ -1,2 +1,2 @@
-# NoteApp
-This is a note making application based on JS, HTML,CSS.
+# NoteApp 
+ I created a notes making website using javaScript, HTML and CSS as a mini project 
